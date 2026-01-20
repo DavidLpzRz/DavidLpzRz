@@ -20,7 +20,7 @@ Desarrollo de un sistema con **YOLOv8 y TensorFlow** para la detección de produ
 * **Tecnologías:** Python, YOLOv8, TensorFlow.
 * [Ver Proyecto ➜](https://ia.meb4app.es)
 
-### ⚡ [Meb4](https://meb4.meb4app.es)
+### ⚡ [Web](https://meb4.meb4app.es)
 Landing page de alto rendimiento diseñada para la conversión de leads con una arquitectura optimizada.
 * **Tecnologías:** Astro, TailwindCSS.
 * [Ver Proyecto ➜](https://meb4.meb4app.es)
@@ -35,7 +35,7 @@ Landing page de alto rendimiento diseñada para la conversión de leads con una 
 | **Backend** | **Node.js**, Express, **Java**, **Python**, Bash |
 | **Bases de Datos** | SQL |
 | **IA & Data** | TensorFlow, YOLOv8 |
-| **Sistemas & DevOps** | Linux (**Ubuntu**, **Kali Linux**), Docker, Git |
+| **Sistemas & DevOps** | Linux (**Ubuntu**, **Kali Linux**), Docker, Github |
 
 ---
 
@@ -55,8 +55,8 @@ Landing page de alto rendimiento diseñada para la conversión de leads con una 
 ---
 
 ## 📬 Contacto
-- **LinkedIn:** [Tu Perfil](www.linkedin.com/in/david-lópez-ruiz-56456a367)
-- **Web:** [Tu Portafolio](https://cv.meb4app.es)
+- **LinkedIn:** [Mi Linkedin](www.linkedin.com/in/david-lópez-ruiz-56456a367)
+- **Web:** [Mi Portafolio](https://cv.meb4app.es)
 
 ---
 *Hecho con ❤️ por David López*
