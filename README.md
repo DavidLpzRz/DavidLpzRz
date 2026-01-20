@@ -10,7 +10,7 @@ Además, gestiono bases de datos **SQL** y poseo conocimientos sólidos en **cib
 
 ## 🚀 Proyectos Destacados
 
-### 📦 [CEF-APP](https://app.meb4app.es)
+### 📦 [APP](https://app.meb4app.es)
 Aplicación web moderna y ultrarrápida diseñada para la **gestión de PYMES y email marketing**, optimizada para la captación de clientes.
 * **Tecnologías:** Node.js, Express, JavaScript.
 * [Ver Proyecto ➜](https://app.meb4app.es)
