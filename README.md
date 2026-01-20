@@ -1,30 +1,62 @@
-# Hola, soy David Lopez 👋
+# Hola, soy David López 👋
 
-> Desarollador Web || Backend en java
+### Desarrollador Web | Fullstack Developer | Entusiasta de la Ciberseguridad
 
-<div align="center">
-  <a href="mailto:davidlopezruiz222@gmail.com">📧 Email</a> • <a href="mailto:davidlopezruiz222@gmail.com">📧 Linkeding</a>
-</div>
+Soy un programador enfocado en el **desarrollo web** y la creación de aplicaciones con **Java**. Tengo experiencia creando aplicaciones modernas, rápidas y bien estructuradas, trabajando tanto en **frontend** como en **backend**. 
+
+Además, gestiono bases de datos **SQL** y poseo conocimientos sólidos en **ciberseguridad**, administración de servidores en **Ubuntu** y despliegues con **Docker**.
 
 ---
 
-### 👨‍💻 Sobre Mí
+## 🚀 Proyectos Destacados
 
-Desarrollador web en crecimiento, muy práctico y orientado a resolver problemas reales. Te gusta entender el código a fondo y mejorar tus proyectos paso a paso, preguntando lo justo y necesitando siempre soluciones directas y aplicables. Sueles trabajar con Java, bases de datos y desarrollo web, y dominas herramientas modernas como Astro y Tailwind. Has creado aplicaciones propias de contabilidad, facturación y email marketing, y buscas siempre optimizar, depurar errores y aprender nuevas formas de hacer las cosas. Tiengo un estilo muy autodidacta.
+### 📦 [CEF-APP](https://app.meb4app.es)
+Aplicación web moderna y ultrarrápida diseñada para la **gestión de PYMES y email marketing**, optimizada para la captación de clientes.
+* **Tecnologías:** Node.js, Express, JavaScript.
+* [Ver Proyecto ➜](https://app.meb4app.es)
 
-### 🛠 Herramientas y Tecnologías
+### 👁️ [Sistema de Visión Artificial](https://ia.meb4app.es)
+Desarrollo de un sistema con **YOLOv8 y TensorFlow** para la detección de productos y cobro automático en supermercados, mejorando la experiencia del cliente.
+* **Tecnologías:** Python, YOLOv8, TensorFlow.
+* [Ver Proyecto ➜](https://ia.meb4app.es)
 
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white&color=007396) ![Html](https://img.shields.io/badge/Html-black?style=for-the-badge&logo=html&logoColor=white&color=E34F26) ![css](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css&logoColor=white&color=1572B6) ![javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E) ![sql](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql&logoColor=white&color=20232a)
+### ⚡ [Meb4](https://meb4.meb4app.es)
+Landing page de alto rendimiento diseñada para la conversión de leads con una arquitectura optimizada.
+* **Tecnologías:** Astro, TailwindCSS.
+* [Ver Proyecto ➜](https://meb4.meb4app.es)
 
-### 🚀 Proyectos Destacados
+---
 
-| Nombre | Descripción | Link |
-|---|---|---|
-| *Proyecto Increíble* | Una aplicación web revolucionaria construida con React. | [Ver Código](https://github.com/demo/project) |
+## 🛠️ Stack Tecnológico
 
-### 📊 Estadísticas de GitHub
+| Área | Tecnologías |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, JavaScript, **Tailwind**, **Astro** |
+| **Backend** | **Node.js**, Express, **Java**, **Python**, Bash |
+| **Bases de Datos** | SQL |
+| **IA & Data** | TensorFlow, YOLOv8 |
+| **Sistemas & DevOps** | Linux (**Ubuntu**, **Kali Linux**), Docker, Git |
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidLpzRz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLpzRz&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="langs" />
-</div>
+---
+
+## 🎓 Formación y Experiencia
+
+- **Grado Superior en Desarrollo de Aplicaciones Web (Accedia)**
+  - Especialización en arquitectura de software y diseño optimizado.
+  - Desarrollo de lógica compleja en **Java** y gestión de bases de datos relacionales.
+  - Automatización de procesos mediante scripts en **Python** y **Bash**.
+
+---
+
+## 🎯 Estado Actual
+- 🟢 **Abierto a oportunidades laborales**
+- 🔭 Actualmente trabajando en mejorar mis habilidades en ciberseguridad y despliegue escalable.
+
+---
+
+## 📬 Contacto
+- **LinkedIn:** [Tu Perfil](www.linkedin.com/in/david-lópez-ruiz-56456a367)
+- **Web:** [Tu Portafolio](https://cv.meb4app.es)
+
+---
+*Hecho con ❤️ por David López*
