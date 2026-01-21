@@ -62,12 +62,6 @@ Landing page de alto rendimiento diseñada para la conversión de leads con una 
 
 ## 📊 Mis Estadísticas de GitHub
 
-<!-- GitHub Stats Card -->
-<a href="https://github.com/DavidLpzRz">
-  <img align="center" src="https://github-states-generator.vercel.app/api?username=DavidLpzRz&show_icons=true&theme=radical" />
-</a>
-
-<!-- Top Languages Card -->
 <a href="https://github.com/DavidLpzRz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLpzRz&layout=compact&theme=radical" />
 </a>
